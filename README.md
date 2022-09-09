@@ -1,7 +1,7 @@
 # Instagram
 
 
-<p>Project developed during a bootcamp by <a>Rodolfo Mori</a> called "Mission Programming from scratch", where I discovered my passion for technology and since then I have been developing my skills for improvement!</p>
+<p>Project developed during a bootcamp by <a>Rodolfo Mori</a> called "Mission Programming from scratch"!</p>
  Deploy:
  
 <br>
