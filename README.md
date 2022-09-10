@@ -1,5 +1,8 @@
 # Instagram
 
+<div aling="center">
+<img height="300em" height="300em" src="./assets/desktop.png">
+</div>
 
 <p>Project developed during a bootcamp by <a>Rodolfo Mori</a> called "Mission Programming from scratch"!</p>
  Deploy:
