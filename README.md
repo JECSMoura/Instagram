@@ -5,7 +5,7 @@
 </div>
 
 <p>Project developed during a bootcamp by <a>Rodolfo Mori</a> called "Mission Programming from scratch"!</p>
- Deploy:
+ Deploy: https://jecsm-instagram.netlify.app/
  
 <br>
  <h2>💻 Technologies</h3> 
